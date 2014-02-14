@@ -1,0 +1,4 @@
+# gitignore
+
+jaxrs/WEB-INF/classes/
+jaxrs/WEB-INF/lib/
