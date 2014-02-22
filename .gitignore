@@ -2,3 +2,5 @@
 
 jaxrs/WEB-INF/classes/
 jaxrs/WEB-INF/lib/
+
+*.class
